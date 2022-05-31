@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name's HexHexByte and this is sort of my intro-journal-diary hybrid thingy.
+
+01/06/2022
+
+I've created this account to mark the beginning of a possible new direction in my life. I'll be spending more of my free time to learn more about high frequency trading, quantitative software development and algorithmic trading. As I write this, my academic interests (subject to change) are mainly in high performance computing (big data, concurrency, parallel computing etc), derivatives market (futures and options), credit market (bonds) and macroeconomics.
 
 <!--
 **HexHexByte/hexhexbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
